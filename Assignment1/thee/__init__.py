@@ -1,0 +1,1 @@
+from thee.utils import Module as BaseModule
