@@ -1,0 +1,1 @@
+from torchy.loss.loss import MSE, CrossEntropy
