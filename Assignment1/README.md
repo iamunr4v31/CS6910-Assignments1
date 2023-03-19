@@ -18,6 +18,14 @@ The code is written in Python 3.10.9. The following libraries are used:
 - Scikit-learn
 - Wandb
 
+It is advised to run the code in a virtual environment. The requirements.txt file contains the list of libraries used. Use the following command to install the libraries.
+
+```
+
+pip install -r requirements.txt
+
+```
+
 The repository implements a module torchy which closely imitates the behaviour of PyTorch. The module is used to implement the neural network. Use train.py to train the model. The hyperparameters can be changed though command line arguments. The accuracy is printed on the console.
 
 |           Name           | Description                                                                   |
