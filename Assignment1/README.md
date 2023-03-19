@@ -51,3 +51,19 @@ The repository implements a module torchy which closely imitates the behaviour o
 ## Results
 
 The results are discussed in a detailed manner in the report. You may find them in the report.pdf file.
+
+
+## References
+
+- https://www.kaggle.com/zalando-research/fashionmnist
+- ChatGPT for verification of code and understanding of the concepts. It also helped in rephrasing certain sentences in the report.
+- Lecture Slides
+- Previous year assignments for the bias correction problem (overflow error).
+- Towards Data Science blog for the awesome explaination of the softmax diff function.
+- PyTorch for inspiration and understanding of the concepts.
+- Numpy documentation.
+- Wandb documentation.
+
+## Acknowledgements
+
+I sincerely thank my course instructor Prof. Mitesh Khapra for the in-depth lectures and the vast amount of concepts that he covered. I also thank the course TAs for the help in understanding the concepts and debugging the code from the tutorials. I understand that I may have been inspired by the code of the previous year's assignments. I have tried to understand the concepts and implement them from scratch. I apologise for not citing the code in the report.
